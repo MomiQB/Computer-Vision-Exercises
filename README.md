@@ -4,7 +4,7 @@ This repository contains 10 small projects focused on various supervised learnin
 
 Below is a brief summary of the objectives of each project:
 
-Project Summaries
+### Project Summaries
 1. **Classifier Comparison**  
 Objective: Perform a statistical comparison between different classifiers across four distinct datasets.
 
