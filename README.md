@@ -1,6 +1,6 @@
 # Computer-Vision-Exercises
 
-This repository contains 10 small projects focused on various **supervised learning tasks**, spanning from traditional classifiers to advanced computer vision and deep learning architectures. Some of these projects were done in collaboration with my university mates, showcasing teamwork and knowledge-sharing. The projects were developed for learning purposes, and are implemented either in **MATLAB** or **Python Jupyter Notebooks**, depending on the task at hand. Each project tackles a unique challenge, ranging from statistical comparisons of machine learning algorithms to training deep learning models for object detection, image classification, and sequence analysis.
+This repository contains 10 small projects focused on various **supervised learning tasks**, spanning from traditional classifiers to advanced computer vision and deep learning architectures. Some of these projects were done in collaboration with my university mates, showcasing teamwork and knowledge-sharing. The projects were developed for learning purposes during the _"Supervised Learning"_ course taught by Professor Bianco at the University of Milan-Biccoca, and are implemented either in **MATLAB** or **Python Jupyter Notebooks**, depending on the task at hand. Each project tackles a unique challenge, ranging from statistical comparisons of machine learning algorithms to training deep learning models for object detection, image classification, and sequence analysis.
 
 Below is a brief summary of the objectives of each project:
 
